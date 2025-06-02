@@ -1,0 +1,4 @@
+datasets 
+transformers 
+sentence-transformers 
+gradio
